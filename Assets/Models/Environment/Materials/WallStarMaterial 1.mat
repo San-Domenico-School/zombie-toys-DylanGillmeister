@@ -7,10 +7,9 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: WallStarMaterial
+  m_Name: WallStarMaterial 1
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
-  m_ValidKeywords:
-  - _EMISSION
+  m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 1
   m_EnableInstancingVariants: 0
@@ -77,5 +76,5 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _Color: {r: 0.84277236, g: 0.9044118, b: 0.7448097, a: 1}
-    - _EmissionColor: {r: 0.10658608, g: 3.0905106, b: 0, a: 3.0905104}
+    - _EmissionColor: {r: 0.106586106, g: 3.0905104, b: 0, a: 3.0905104}
   m_BuildTextureStacks: []
